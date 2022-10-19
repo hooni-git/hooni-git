@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!👋 Welcome @hooni-git&fontSize=50" />
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Welcome%20@hooni-git&fontSize=50)
 
 [<center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hooni-git&show_icons=true&theme=gruvbox_light)](https://github.com/hooni-git/github-readme-stats) [![Solved.ac codehoon650](http://mazassumnida.wtf/api/v2/generate_badge?boj=codehoon650)</center>](https://solved.ac/codehoon650)
 
@@ -12,3 +13,4 @@
     
 ### 🔨 tool 🔨
 <img src="https://img.shields.io/badge/visual studio code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+</div>
